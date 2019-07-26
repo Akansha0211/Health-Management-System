@@ -39,7 +39,7 @@ def add_log(n):
         if ex_diet == 2:
                 ex = input("Enter your exercise")
                 with open("Shivam_ex", "a") as g:
-                    g.write(ex + "\n")
+                    g.write(str(getdate())+ex + "\n")
                 print("You have entered your exercise")
     if n==3:
         ex_diet = int(input("Enter what you want to log\n"
