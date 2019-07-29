@@ -1,6 +1,6 @@
 # Health Management System
 # Total 6 Files, 3 For exercise and 3 For for diet
-# 3 clients - Harry, Rohan and Parul
+# 3 clients - SHIVAM, SHUBHAM and SATYAM
 # write a function that when executed takes as input client name
 # one more function to retrieve exercise or food for any client
 
